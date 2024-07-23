@@ -7,10 +7,11 @@ This repository contains Jupyter notebooks and code for reproducing the results 
 The web portal of RNA-Puzzles Round V together with all the datasets are publicly available at [https://www.rnapuzzles.org/](https://www.rnapuzzles.org/).
 
 ## Installation
-matplotlib                3.8.0   
-numpy                     1.26.4    
-pandas                    2.1.4  
-seaborn                   0.12.2   
+python                    3.10.6
+matplotlib                3.6.2   
+numpy                     1.23.3    
+pandas                    1.5.2
+seaborn                   0.11.2   
 
 # Repository Structure
 This repository contains the codes necessary to replicate all figures from Puzzles Round V. It includes:
