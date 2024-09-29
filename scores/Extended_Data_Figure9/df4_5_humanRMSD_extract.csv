@@ -133,7 +133,7 @@ Szachniuk,Szachniuk,3,4.793,2,PZ29
 Bujnicki,Bujnicki,4,14.59,14,PZ30
 Chen,Chen,1,5.021,1,PZ30
 Ding,Ding,4,12.286,4,PZ30
-Nithin,Nithin,1,27.266,34,PZ30
+Nithin,LCBio,1,27.266,34,PZ30
 Szachniuk,Szachniuk,3,12.318,5,PZ30
 Xiao,Xiao,4,14.791,16,PZ30
 Bujnicki,Bujnicki,2,5.449,5,PZ31
@@ -141,7 +141,7 @@ Chen,Chen,7,5.166,3,PZ31
 Ding,Ding,1,5.861,13,PZ31
 Dokholyan,Dokholyan,2,4.798,1,PZ31
 Dfold,Kollmann,2,14.069,41,PZ31
-Nithin,Nithin,2,10.253,26,PZ31
+Nithin,LCBio,2,10.253,26,PZ31
 Perez,Perez,1,9.001,21,PZ31
 Szachniuk,Szachniuk,5,5.737,11,PZ31
 Xiao,Xiao,5,11.267,28,PZ31
@@ -152,7 +152,7 @@ Das,Das,5,6.972,8,PZ32
 Ding,Ding,5,6.952,6,PZ32
 Dokholyan,Dokholyan,1,14.036,48,PZ32
 Dfold,Kollmann,2,8.468,21,PZ32
-Nithin,Nithin,5,13.916,47,PZ32
+Nithin,LCBio,5,13.916,47,PZ32
 Perez,Perez,10,6.825,4,PZ32
 Szachniuk,Szachniuk,5,5.159,2,PZ32
 Xiao,Xiao,3,6.934,5,PZ32
@@ -162,7 +162,7 @@ FARFAR2,Das,9,3.935,3,PZ33
 Ding,Ding,4,9.044,61,PZ33
 Dokholyan,Dokholyan,1,4.831,15,PZ33
 Dfold2,Kollmann,6,3.916,2,PZ33
-Nithin,Nithin,4,4.461,10,PZ33
+Nithin,LCBio,4,4.461,10,PZ33
 Perez,Perez,2,7.083,46,PZ33
 Szachniuk,Szachniuk,1,7.956,57,PZ33
 Xiao,Xiao,3,4.645,13,PZ33
@@ -170,7 +170,7 @@ Bujnicki,Bujnicki,1,11.176,20,PZ34
 Chen,Chen,3,9.446,6,PZ34
 SWMapo,Das,2,8.707,1,PZ34
 Dokholyan,Dokholyan,1,21.255,91,PZ34
-Nithin,Nithin,5,13.598,55,PZ34
+Nithin,LCBio,5,13.598,55,PZ34
 Szachniuk,Szachniuk,3,11.775,29,PZ34
 Xiao,Xiao,5,16.811,77,PZ34
 Bujnicki,Bujnicki,3,5.982,1,PZ35
@@ -178,12 +178,12 @@ Chen,Chen,5,6.498,2,PZ35
 Ding,Ding,3,15.591,14,PZ35
 Dokholyan,Dokholyan,1,16.161,16,PZ35
 Dfold2,Kollmann,8,20.146,32,PZ35
-Nithin,Nithin,5,16.626,20,PZ35
+Nithin,LCBio,5,16.626,20,PZ35
 Szachniuk,Szachniuk,4,8.804,8,PZ35
 Bujnicki,Bujnicki,5,21.654,2,PZ36
 Chen,Chen,1,24.015,6,PZ36
 Ding,Ding,1,21.817,3,PZ36
-Nithin,Nithin,1,29.751,13,PZ36
+Nithin,LCBio,1,29.751,13,PZ36
 Szachniuk,Szachniuk,4,21.181,1,PZ36
 Zhou,Anonymous,1,26.083,74,PZ37
 Bujnicki,Bujnicki,5,13.571,22,PZ37
