@@ -7,11 +7,11 @@ Adamiak,Szachniuk,7,5.724,5,PZ11
 Xiao,Xiao,2,8.825,38,PZ11
 Chen,Chen,6,8.514,7,PZ15
 Adamiak,Szachniuk,8,6.454,1,PZ15
+Lee,Anonymous2,2,3.551,11,PZ16a
 Chen,Chen,1,1.45,1,PZ16a
-Lee,Lee,2,3.551,11,PZ16a
 Szachniuk,Szachniuk,8,1.881,2,PZ16a
+Lee,Anonymous2,3,3.591,12,PZ16b
 Chen,Chen,1,1.324,2,PZ16b
-Lee,Lee,3,3.591,12,PZ16b
 Szachniuk,Szachniuk,1,1.25,1,PZ16b
 Bujnicki,Bujnicki,7,10.863,6,PZ17
 Chen,Chen,5,9.443,5,PZ17
@@ -21,11 +21,11 @@ Dokholyan,Dokholyan,3,15.03,38,PZ17
 Major,Major,10,13.402,20,PZ17
 Adamiak,Szachniuk,2,11.779,12,PZ17
 Xiao,Xiao,7,13.849,21,PZ17
+Lee,Anonymous2,2,21.159,29,PZ18
 Chen,Chen,1,3.74,2,PZ18
 DasORIGINAL,Das,3,3.208,1,PZ18
 Ding,Ding,5,16.148,24,PZ18
 Dokholyan,Dokholyan,3,7.903,11,PZ18
-Lee,Lee,2,21.159,29,PZ18
 Szachniuk,Szachniuk,5,9.082,13,PZ18
 YagoubAli,YagoubAli,1,18.636,26,PZ18
 Bujnicki,Bujnicki,2,10.183,7,PZ19
@@ -39,7 +39,7 @@ Chen,Chen,2,13.335,13,PZ20
 Das,Das,2,5.804,4,PZ20
 Adamiak,Szachniuk,5,6.859,9,PZ20
 Xiao3,Xiao,5,12.453,12,PZ20
-Sanbonmatsu,Anonymous,3,13.86,29,PZ21
+Sanbonmatsu,Anonymous3,3,13.86,29,PZ21
 Bujnicki,Bujnicki,4,6.392,22,PZ21
 ChenHighLig,Chen,2,3.715,2,PZ21
 DasLORES,Das,1,3.646,1,PZ21
@@ -185,7 +185,7 @@ Chen,Chen,1,24.015,6,PZ36
 Ding,Ding,1,21.817,3,PZ36
 Nithin,LCBio,1,29.751,13,PZ36
 Szachniuk,Szachniuk,4,21.181,1,PZ36
-Zhou,Anonymous,1,26.083,74,PZ37
+Zhou,Anonymous1,1,26.083,74,PZ37
 Bujnicki,Bujnicki,5,13.571,22,PZ37
 Chen,Chen,6,5.42,1,PZ37
 DasSWMapo,Das,2,11.683,14,PZ37
@@ -205,7 +205,7 @@ Dfold,Kollmann,4,13.387,31,PZ38
 SoutheRNA,SoutheRNA,1,11.503,12,PZ38
 Szachniuk,Szachniuk,1,8.394,5,PZ38
 Xiao,Xiao,5,11.826,16,PZ38
-Zhou,Anonymous,5,21.756,76,PZ39
+Zhou,Anonymous1,5,21.756,76,PZ39
 GeneSilico4,Bujnicki,1,3.383,1,PZ39
 Chen,Chen,1,3.959,2,PZ39
 DasSWM,Das,5,5.594,5,PZ39
